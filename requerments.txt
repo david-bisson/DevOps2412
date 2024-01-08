@@ -1,0 +1,4 @@
+requests
+awscli
+flask
+boto3
