@@ -7,3 +7,6 @@ print ("actual ", actual)
 expected = 3
 print ("expected ", expected)
 assert expected == actual
+
+for i in actual:
+    print(i.get("Name"))
